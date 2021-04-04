@@ -2,6 +2,10 @@
 
     npm install
 
+## Test app
+
+Press `Ctrl + Cmd + Shift +D` and show `activeInfo` object in the app.
+
 ## Test Results
 
 Env:
